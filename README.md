@@ -1,5 +1,9 @@
 # Final-Java-Project
-Inventory Management for Construction Company
+Inventory Management for Construction Company with GUI interface
+
+M08 Zip contains the program and the classes involved
+Final Project (Java) contains screenshots of the program running and a picture of the prefilled information
+
 Prefilled information to get started with using the program. Use the Key Value's below for each designated database to access the respective information. You can fill the database with your own information and manipulate it at your whim. Have Fun!
 
   // Use for Material Database
